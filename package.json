@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-coursera",
+  "version": "1.0.0",
+  "description": "Here are some notes I have taken during this course in which I formally learned about Node.js after empirically working on it for a while.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesartc/nodejs-coursera.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cesartc/nodejs-coursera/issues"
+  },
+  "homepage": "https://github.com/cesartc/nodejs-coursera#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.12.0"
+  }
+}
